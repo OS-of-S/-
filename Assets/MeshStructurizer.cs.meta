@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 42498be71af044f4dbfea36ce0d17401
+timeCreated: 1647514263
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WMat: {fileID: 2100000, guid: da85dcc4548412f41a0105cf83f0b797, type: 2}
+  - YMat: {fileID: 2100000, guid: 75d6933e04ec61d4cbcf6030879bb610, type: 2}
+  - PMat: {fileID: 2100000, guid: 35ab2a96929f3494f92bc4e043e4aee7, type: 2}
+  - ZeroFrictionMaterial: {fileID: 13400000, guid: 423d84e1547592342aab985cb8a103a7,
+      type: 2}
+  - FlagSample: {fileID: 1240543740813578, guid: 2a065727ba04155439ab763106f9f0df,
+      type: 2}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
