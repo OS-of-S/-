@@ -10,4 +10,6 @@
 
 Разработка: С. Смекты
 
-![](https://github.com/OS-of-S/Geometry-Puzzle-unfinished/blob/main/Geometry_Game_video_and_images/video_demonstration.mp4)
+<video width="320" height="240" controls>
+  <source src="[video.mov](https://github.com/OS-of-S/Geometry-Puzzle-unfinished/blob/main/Geometry_Game_video_and_images/video_demonstration.mp4)" type="video/mp4">
+</video>
