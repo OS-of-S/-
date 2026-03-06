@@ -1,6 +1,6 @@
 # Geometry Puzzle (unfinished)
 
-<img width="454" height="278,5" alt="screenshot" src="https://github.com/user-attachments/assets/37142767-772f-4ea4-9ae7-b588c3599793" />
+<img width="681" height="417,75" alt="screenshot" src="https://github.com/user-attachments/assets/37142767-772f-4ea4-9ae7-b588c3599793" />
 
 Пространственная головоломка, в которой игроку необходимо на каждом из уровней добыть синий объект. Для этого он может толкать и тянуть остальные объекты, но только за определённые грани.
 
